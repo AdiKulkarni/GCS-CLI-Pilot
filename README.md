@@ -27,5 +27,6 @@ So after following all steps in README here, when you write string "mmm5" to soc
 6] Script mjpegReceiver_adaptive.py starts a client video streaming player to receive live video feed from the camera of the device attached to the APM. In order to use this, first enable MJPEG streaming from the QuadFlyer application that you have installed already. 
 
 ##Developer Contact
+Website: http://www.comp.nus.edu.sg/~adityak
 Email: adityak@comp.nus.edu.sg
 
